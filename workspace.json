@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "projects": {
+    "editor": "apps/editor",
+    "editor-e2e": "apps/editor-e2e",
+    "server": "apps/server",
+    "store": "apps/store",
+    "store-e2e": "apps/store-e2e"
+  }
+}
